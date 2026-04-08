@@ -44,7 +44,7 @@
         ?>
     </nav>
     <div id="menu-btn" class="fas fa-bars"></div>
-</section>';
+</section>
 
 
 <!-- header ends here -->
@@ -244,6 +244,6 @@
 
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-    <script src="js/script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
